@@ -58,15 +58,12 @@
     background-color: yellow;
 }  
 
-
-
 .correct {
     border: solid;
     border-color: green;
     padding: 10px;
     font: green;
     }
-
 
  .incorrect {
     border: solid;
